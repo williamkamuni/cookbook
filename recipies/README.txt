@@ -1,1 +1,1 @@
-this is my recipes file
+this is my recipies file
